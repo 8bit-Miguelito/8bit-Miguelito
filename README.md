@@ -1,15 +1,23 @@
-## Hi there 👋 I'm Miguel 
+## Howdy 👋 I'm Miguel 
 
-Skills: C, C++, Python | Data Structures | Memory Management | Valgrind, GDB
+Skills: C, C#, C++, Python | Data Structures | Memory Management | Object-Oriented Programming
 
 I'm a programmer constantly challenging myself with school and personal projects. I'm currently
 diving deep into data structures, memory allocation, and C, honing my ability to write 
 optimized and efficient code. 
 
-## 🤖What I'm Working On
-- Developing an Elden Ring Build Builder, allowing players to craft their character build based on their preferences.
-- Tackling data structure-heavy projects that will refine my problem-solving abilities.
-- Working on Food Web Project for school that tackles memory allocation and management to refine my debugging skills.
+## 🤖Current Projects
+Fantasy RPG
+___________
+- Using the Unity engine, I'm developing a game with custom movements, combat features, and skill trees using data structures.
+- Physics programming to simulate gravity and velocity for basic running, walking, and jump mechanics.
+- Used vectors and quaternion rotations for a custom camera engine that gives the player full rotation control.
+
+Spades
+___________
+- I'm currently recreating the card game "Spades" in C++.
+- Game uses OOP concepts such as encapsulation and abstraction for easier data management and reuse of variables.
+- I'm using lower level memory management to prevent stack overflow issues.
 
 ## 👾Collaborate
 
