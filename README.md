@@ -1,10 +1,9 @@
-## Howdy 👋 I'm Miguel 
+## Please Hire Me 
 
 Skills: C, C#, C++, Python | Data Structures | Memory Management | Object-Oriented Programming
 
-I'm a programmer constantly challenging myself with school and personal projects. I'm currently
-diving deep into data structures, memory allocation, and C, honing my ability to write 
-optimized and efficient code. 
+One my biggest goals as a programmer is to ensure optimization for any program I'm working on.
+This has led me to losing my mind.
 
 ## 🤖Current Projects
 
