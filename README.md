@@ -1,9 +1,10 @@
 ## Please Hire Me 
 
-Skills: C, C#, C++, Python | Data Structures | Memory Management | Object-Oriented Programming
+Languages: C, C++, C#, Python, JavaScript 
+Frameworks: Node.js
+Skills: Object-Oriented Design | Cache-Friendly/DOD | Low-Level Memory Management 
 
-One my biggest goals as a programmer is to ensure optimization for any program I'm working on.
-This has led me to losing my mind.
+Optimization is key! Ensuring high performance and efficient memory management. 
 
 ## 🤖Current Projects
 
