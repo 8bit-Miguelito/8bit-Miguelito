@@ -1,8 +1,7 @@
 ## Please Hire Me 
 
-Languages: C, C++, C#, Python, JavaScript 
-Frameworks: Node.js
-Skills: Object-Oriented Design | Cache-Friendly/DOD | Low-Level Memory Management 
+Languages: C, C++, C#, Python
+Concepts: Object-Oriented Design | Low-Level Memory Management 
 
 Optimization is key! Ensuring high performance and efficient memory management. 
 
@@ -10,11 +9,11 @@ Optimization is key! Ensuring high performance and efficient memory management.
 
 *Fantasy RPG*
 ___________
-- Using the Unity engine, I'm developing a game with custom movements, combat features, and skill trees using data structures.
+- Using the Unity engine, I'm developing a First Person experience 
 - Physics programming to simulate gravity and velocity for basic running, walking, and jump mechanics.
 - Used vectors and quaternion rotations for a custom camera engine that gives the player full rotation control.
 
-*Spades*
+*Backtester*
 ___________
 - I'm currently recreating the card game "Spades" in C++.
 - Game uses OOP concepts such as encapsulation and abstraction for easier data management and reuse of variables.
