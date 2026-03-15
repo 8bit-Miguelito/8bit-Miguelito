@@ -1,7 +1,7 @@
-## Please Hire Me 
+## Miggy
 
-Languages: C, C++, C#, Python
-Concepts: Object-Oriented Design | Low-Level Memory Management 
+Languages: C, C++, C#, Python, Java
+Concepts: Object-Oriented Design | Low-Level Memory Management | Systems Programming 
 
 Optimization is key! Ensuring high performance and efficient memory management. 
 
@@ -13,16 +13,11 @@ ___________
 - Physics programming to simulate gravity and velocity for basic running, walking, and jump mechanics.
 - Used vectors and quaternion rotations for a custom camera engine that gives the player full rotation control.
 
-*Backtester*
+*CardServer*
 ___________
-- I'm currently recreating the card game "Spades" in C++.
-- Game uses OOP concepts such as encapsulation and abstraction for easier data management and reuse of variables.
-- I'm using lower level memory management to prevent stack overflow issues.
-
-## 👾Collaborate
-
-I'm excited to work on team-based projects that could challenge my problem-solving skills. Anything from 
-game-related projects to performance optimization or even just fun coding challenges. 
+- I'm currently creating a Card game server.
+- Gameboard abstraction to allow multiple game variants to choose from.
+- I/O Multiplexing to update game state between players.
 
 
 
